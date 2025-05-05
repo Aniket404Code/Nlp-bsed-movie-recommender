@@ -44,7 +44,7 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository:** 
     ```bash
-    [git clone https://github.com/Aniket404Code/Nlp-bsed-movie-recommender.git
+    git clone https://github.com/Aniket404Code/Nlp-bsed-movie-recommender.git]
     ```
 
 2. **Create a Virtual Environment:** 
